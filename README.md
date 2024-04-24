@@ -1,2 +1,1 @@
-# thedjaangoo.github.io
-# thedjaangoo.github.io
+![SVG Image](coala-logo-transparent.svg)
